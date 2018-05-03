@@ -81,7 +81,7 @@
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -144,7 +144,7 @@
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -200,14 +200,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -263,14 +262,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -326,14 +324,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -389,14 +386,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -452,14 +448,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -515,14 +510,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -578,14 +572,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -641,14 +634,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -704,14 +696,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -767,14 +758,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -830,14 +820,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -893,14 +882,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -956,14 +944,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -1019,14 +1006,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -1082,14 +1068,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -1145,14 +1130,75 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
+                    <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
 
+                    <android.support.v7.widget.CardView
+                        android:layout_width="110dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginRight="3dp"
+                        android:elevation="6dp"
+                        app:cardCornerRadius="6dp">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="wrap_content"
+                                android:layout_height="100dp"
+                                android:src="@drawable/christmas_wreath" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:text="Chirstmas wreath"
+                                android:textColor="@color/pinkAccent"
+                                android:textSize="14sp" />
+
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:layout_marginBottom="3dp"
+                                android:layout_marginTop="3dp"
+                                android:background="#d9d9d9" />
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal">
+
+                                <ImageButton
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="18dp"
+                                    android:layout_weight="1"
+                                    android:background="#fff"
+                                    android:src="@drawable/button_favorite" />
+
+                                <TextView
+                                    android:layout_width="0dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="2"
+                                    android:text="$300"
+                                    android:textAlignment="center"
+                                    android:textColor="#d41031"
+                                    android:textSize="14sp" />
+                            </LinearLayout>
+                        </LinearLayout>
+
+                    </android.support.v7.widget.CardView>
+                </LinearLayout>
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -1208,14 +1254,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -1271,14 +1316,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -1334,14 +1378,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -1397,14 +1440,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -1460,14 +1502,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -1523,14 +1564,13 @@
 
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
-
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                         <android.support.v7.widget.CardView
                             android:layout_width="110dp"
-                            android:layout_height="150dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginBottom="10dp"
                             android:layout_marginRight="3dp"
                             android:elevation="6dp"
@@ -1587,824 +1627,8 @@
                         </android.support.v7.widget.CardView>
                     </LinearLayout>
 
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content">
 
-                        <android.support.v7.widget.CardView
-                            android:layout_width="110dp"
-                            android:layout_height="150dp"
-                            android:layout_marginBottom="10dp"
-                            android:layout_marginRight="3dp"
-                            android:elevation="6dp"
-                            app:cardCornerRadius="6dp">
 
-                            <LinearLayout
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:orientation="vertical">
-
-                                <ImageView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="100dp"
-                                    android:src="@drawable/christmas_wreath" />
-
-                                <TextView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_gravity="center"
-                                    android:text="Chirstmas wreath"
-                                    android:textColor="@color/pinkAccent"
-                                    android:textSize="14sp" />
-
-                                <View
-                                    android:layout_width="match_parent"
-                                    android:layout_height="1dp"
-                                    android:layout_marginBottom="3dp"
-                                    android:layout_marginTop="3dp"
-                                    android:background="#d9d9d9" />
-
-                                <LinearLayout
-                                    android:layout_width="match_parent"
-                                    android:layout_height="wrap_content"
-                                    android:orientation="horizontal">
-
-                                    <ImageButton
-                                        android:layout_width="wrap_content"
-                                        android:layout_height="18dp"
-                                        android:layout_weight="1"
-                                        android:background="#fff"
-                                        android:src="@drawable/button_favorite" />
-
-                                    <TextView
-                                        android:layout_width="0dp"
-                                        android:layout_height="wrap_content"
-                                        android:layout_weight="2"
-                                        android:text="$300"
-                                        android:textAlignment="center"
-                                        android:textColor="#d41031"
-                                        android:textSize="14sp" />
-                                </LinearLayout>
-                            </LinearLayout>
-
-                        </android.support.v7.widget.CardView>
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content">
-
-                        <android.support.v7.widget.CardView
-                            android:layout_width="110dp"
-                            android:layout_height="150dp"
-                            android:layout_marginBottom="10dp"
-                            android:layout_marginRight="3dp"
-                            android:elevation="6dp"
-                            app:cardCornerRadius="6dp">
-
-                            <LinearLayout
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:orientation="vertical">
-
-                                <ImageView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="100dp"
-                                    android:src="@drawable/christmas_wreath" />
-
-                                <TextView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_gravity="center"
-                                    android:text="Chirstmas wreath"
-                                    android:textColor="@color/pinkAccent"
-                                    android:textSize="14sp" />
-
-                                <View
-                                    android:layout_width="match_parent"
-                                    android:layout_height="1dp"
-                                    android:layout_marginBottom="3dp"
-                                    android:layout_marginTop="3dp"
-                                    android:background="#d9d9d9" />
-
-                                <LinearLayout
-                                    android:layout_width="match_parent"
-                                    android:layout_height="wrap_content"
-                                    android:orientation="horizontal">
-
-                                    <ImageButton
-                                        android:layout_width="wrap_content"
-                                        android:layout_height="18dp"
-                                        android:layout_weight="1"
-                                        android:background="#fff"
-                                        android:src="@drawable/button_favorite" />
-
-                                    <TextView
-                                        android:layout_width="0dp"
-                                        android:layout_height="wrap_content"
-                                        android:layout_weight="2"
-                                        android:text="$300"
-                                        android:textAlignment="center"
-                                        android:textColor="#d41031"
-                                        android:textSize="14sp" />
-                                </LinearLayout>
-                            </LinearLayout>
-
-                        </android.support.v7.widget.CardView>
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content">
-
-                        <android.support.v7.widget.CardView
-                            android:layout_width="110dp"
-                            android:layout_height="150dp"
-                            android:layout_marginBottom="10dp"
-                            android:layout_marginRight="3dp"
-                            android:elevation="6dp"
-                            app:cardCornerRadius="6dp">
-
-                            <LinearLayout
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:orientation="vertical">
-
-                                <ImageView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="100dp"
-                                    android:src="@drawable/christmas_wreath" />
-
-                                <TextView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_gravity="center"
-                                    android:text="Chirstmas wreath"
-                                    android:textColor="@color/pinkAccent"
-                                    android:textSize="14sp" />
-
-                                <View
-                                    android:layout_width="match_parent"
-                                    android:layout_height="1dp"
-                                    android:layout_marginBottom="3dp"
-                                    android:layout_marginTop="3dp"
-                                    android:background="#d9d9d9" />
-
-                                <LinearLayout
-                                    android:layout_width="match_parent"
-                                    android:layout_height="wrap_content"
-                                    android:orientation="horizontal">
-
-                                    <ImageButton
-                                        android:layout_width="wrap_content"
-                                        android:layout_height="18dp"
-                                        android:layout_weight="1"
-                                        android:background="#fff"
-                                        android:src="@drawable/button_favorite" />
-
-                                    <TextView
-                                        android:layout_width="0dp"
-                                        android:layout_height="wrap_content"
-                                        android:layout_weight="2"
-                                        android:text="$300"
-                                        android:textAlignment="center"
-                                        android:textColor="#d41031"
-                                        android:textSize="14sp" />
-                                </LinearLayout>
-                            </LinearLayout>
-
-                        </android.support.v7.widget.CardView>
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content">
-
-                        <android.support.v7.widget.CardView
-                            android:layout_width="110dp"
-                            android:layout_height="150dp"
-                            android:layout_marginBottom="10dp"
-                            android:layout_marginRight="3dp"
-                            android:elevation="6dp"
-                            app:cardCornerRadius="6dp">
-
-                            <LinearLayout
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:orientation="vertical">
-
-                                <ImageView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="100dp"
-                                    android:src="@drawable/christmas_wreath" />
-
-                                <TextView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_gravity="center"
-                                    android:text="Chirstmas wreath"
-                                    android:textColor="@color/pinkAccent"
-                                    android:textSize="14sp" />
-
-                                <View
-                                    android:layout_width="match_parent"
-                                    android:layout_height="1dp"
-                                    android:layout_marginBottom="3dp"
-                                    android:layout_marginTop="3dp"
-                                    android:background="#d9d9d9" />
-
-                                <LinearLayout
-                                    android:layout_width="match_parent"
-                                    android:layout_height="wrap_content"
-                                    android:orientation="horizontal">
-
-                                    <ImageButton
-                                        android:layout_width="wrap_content"
-                                        android:layout_height="18dp"
-                                        android:layout_weight="1"
-                                        android:background="#fff"
-                                        android:src="@drawable/button_favorite" />
-
-                                    <TextView
-                                        android:layout_width="0dp"
-                                        android:layout_height="wrap_content"
-                                        android:layout_weight="2"
-                                        android:text="$300"
-                                        android:textAlignment="center"
-                                        android:textColor="#d41031"
-                                        android:textSize="14sp" />
-                                </LinearLayout>
-                            </LinearLayout>
-
-                        </android.support.v7.widget.CardView>
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content">
-
-                        <android.support.v7.widget.CardView
-                            android:layout_width="110dp"
-                            android:layout_height="150dp"
-                            android:layout_marginBottom="10dp"
-                            android:layout_marginRight="3dp"
-                            android:elevation="6dp"
-                            app:cardCornerRadius="6dp">
-
-                            <LinearLayout
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:orientation="vertical">
-
-                                <ImageView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="100dp"
-                                    android:src="@drawable/christmas_wreath" />
-
-                                <TextView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_gravity="center"
-                                    android:text="Chirstmas wreath"
-                                    android:textColor="@color/pinkAccent"
-                                    android:textSize="14sp" />
-
-                                <View
-                                    android:layout_width="match_parent"
-                                    android:layout_height="1dp"
-                                    android:layout_marginBottom="3dp"
-                                    android:layout_marginTop="3dp"
-                                    android:background="#d9d9d9" />
-
-                                <LinearLayout
-                                    android:layout_width="match_parent"
-                                    android:layout_height="wrap_content"
-                                    android:orientation="horizontal">
-
-                                    <ImageButton
-                                        android:layout_width="wrap_content"
-                                        android:layout_height="18dp"
-                                        android:layout_weight="1"
-                                        android:background="#fff"
-                                        android:src="@drawable/button_favorite" />
-
-                                    <TextView
-                                        android:layout_width="0dp"
-                                        android:layout_height="wrap_content"
-                                        android:layout_weight="2"
-                                        android:text="$300"
-                                        android:textAlignment="center"
-                                        android:textColor="#d41031"
-                                        android:textSize="14sp" />
-                                </LinearLayout>
-                            </LinearLayout>
-
-                        </android.support.v7.widget.CardView>
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content">
-
-                        <android.support.v7.widget.CardView
-                            android:layout_width="110dp"
-                            android:layout_height="150dp"
-                            android:layout_marginBottom="10dp"
-                            android:layout_marginRight="3dp"
-                            android:elevation="6dp"
-                            app:cardCornerRadius="6dp">
-
-                            <LinearLayout
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:orientation="vertical">
-
-                                <ImageView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="100dp"
-                                    android:src="@drawable/christmas_wreath" />
-
-                                <TextView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_gravity="center"
-                                    android:text="Chirstmas wreath"
-                                    android:textColor="@color/pinkAccent"
-                                    android:textSize="14sp" />
-
-                                <View
-                                    android:layout_width="match_parent"
-                                    android:layout_height="1dp"
-                                    android:layout_marginBottom="3dp"
-                                    android:layout_marginTop="3dp"
-                                    android:background="#d9d9d9" />
-
-                                <LinearLayout
-                                    android:layout_width="match_parent"
-                                    android:layout_height="wrap_content"
-                                    android:orientation="horizontal">
-
-                                    <ImageButton
-                                        android:layout_width="wrap_content"
-                                        android:layout_height="18dp"
-                                        android:layout_weight="1"
-                                        android:background="#fff"
-                                        android:src="@drawable/button_favorite" />
-
-                                    <TextView
-                                        android:layout_width="0dp"
-                                        android:layout_height="wrap_content"
-                                        android:layout_weight="2"
-                                        android:text="$300"
-                                        android:textAlignment="center"
-                                        android:textColor="#d41031"
-                                        android:textSize="14sp" />
-                                </LinearLayout>
-                            </LinearLayout>
-
-                        </android.support.v7.widget.CardView>
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content">
-
-                        <android.support.v7.widget.CardView
-                            android:layout_width="110dp"
-                            android:layout_height="150dp"
-                            android:layout_marginBottom="10dp"
-                            android:layout_marginRight="3dp"
-                            android:elevation="6dp"
-                            app:cardCornerRadius="6dp">
-
-                            <LinearLayout
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:orientation="vertical">
-
-                                <ImageView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="100dp"
-                                    android:src="@drawable/christmas_wreath" />
-
-                                <TextView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_gravity="center"
-                                    android:text="Chirstmas wreath"
-                                    android:textColor="@color/pinkAccent"
-                                    android:textSize="14sp" />
-
-                                <View
-                                    android:layout_width="match_parent"
-                                    android:layout_height="1dp"
-                                    android:layout_marginBottom="3dp"
-                                    android:layout_marginTop="3dp"
-                                    android:background="#d9d9d9" />
-
-                                <LinearLayout
-                                    android:layout_width="match_parent"
-                                    android:layout_height="wrap_content"
-                                    android:orientation="horizontal">
-
-                                    <ImageButton
-                                        android:layout_width="wrap_content"
-                                        android:layout_height="18dp"
-                                        android:layout_weight="1"
-                                        android:background="#fff"
-                                        android:src="@drawable/button_favorite" />
-
-                                    <TextView
-                                        android:layout_width="0dp"
-                                        android:layout_height="wrap_content"
-                                        android:layout_weight="2"
-                                        android:text="$300"
-                                        android:textAlignment="center"
-                                        android:textColor="#d41031"
-                                        android:textSize="14sp" />
-                                </LinearLayout>
-                            </LinearLayout>
-
-                        </android.support.v7.widget.CardView>
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content">
-
-                        <android.support.v7.widget.CardView
-                            android:layout_width="110dp"
-                            android:layout_height="150dp"
-                            android:layout_marginBottom="10dp"
-                            android:layout_marginRight="3dp"
-                            android:elevation="6dp"
-                            app:cardCornerRadius="6dp">
-
-                            <LinearLayout
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:orientation="vertical">
-
-                                <ImageView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="100dp"
-                                    android:src="@drawable/christmas_wreath" />
-
-                                <TextView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_gravity="center"
-                                    android:text="Chirstmas wreath"
-                                    android:textColor="@color/pinkAccent"
-                                    android:textSize="14sp" />
-
-                                <View
-                                    android:layout_width="match_parent"
-                                    android:layout_height="1dp"
-                                    android:layout_marginBottom="3dp"
-                                    android:layout_marginTop="3dp"
-                                    android:background="#d9d9d9" />
-
-                                <LinearLayout
-                                    android:layout_width="match_parent"
-                                    android:layout_height="wrap_content"
-                                    android:orientation="horizontal">
-
-                                    <ImageButton
-                                        android:layout_width="wrap_content"
-                                        android:layout_height="18dp"
-                                        android:layout_weight="1"
-                                        android:background="#fff"
-                                        android:src="@drawable/button_favorite" />
-
-                                    <TextView
-                                        android:layout_width="0dp"
-                                        android:layout_height="wrap_content"
-                                        android:layout_weight="2"
-                                        android:text="$300"
-                                        android:textAlignment="center"
-                                        android:textColor="#d41031"
-                                        android:textSize="14sp" />
-                                </LinearLayout>
-                            </LinearLayout>
-
-                        </android.support.v7.widget.CardView>
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content">
-
-                        <android.support.v7.widget.CardView
-                            android:layout_width="110dp"
-                            android:layout_height="150dp"
-                            android:layout_marginBottom="10dp"
-                            android:layout_marginRight="3dp"
-                            android:elevation="6dp"
-                            app:cardCornerRadius="6dp">
-
-                            <LinearLayout
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:orientation="vertical">
-
-                                <ImageView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="100dp"
-                                    android:src="@drawable/christmas_wreath" />
-
-                                <TextView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_gravity="center"
-                                    android:text="Chirstmas wreath"
-                                    android:textColor="@color/pinkAccent"
-                                    android:textSize="14sp" />
-
-                                <View
-                                    android:layout_width="match_parent"
-                                    android:layout_height="1dp"
-                                    android:layout_marginBottom="3dp"
-                                    android:layout_marginTop="3dp"
-                                    android:background="#d9d9d9" />
-
-                                <LinearLayout
-                                    android:layout_width="match_parent"
-                                    android:layout_height="wrap_content"
-                                    android:orientation="horizontal">
-
-                                    <ImageButton
-                                        android:layout_width="wrap_content"
-                                        android:layout_height="18dp"
-                                        android:layout_weight="1"
-                                        android:background="#fff"
-                                        android:src="@drawable/button_favorite" />
-
-                                    <TextView
-                                        android:layout_width="0dp"
-                                        android:layout_height="wrap_content"
-                                        android:layout_weight="2"
-                                        android:text="$300"
-                                        android:textAlignment="center"
-                                        android:textColor="#d41031"
-                                        android:textSize="14sp" />
-                                </LinearLayout>
-                            </LinearLayout>
-
-                        </android.support.v7.widget.CardView>
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content">
-
-                        <android.support.v7.widget.CardView
-                            android:layout_width="110dp"
-                            android:layout_height="150dp"
-                            android:layout_marginBottom="10dp"
-                            android:layout_marginRight="3dp"
-                            android:elevation="6dp"
-                            app:cardCornerRadius="6dp">
-
-                            <LinearLayout
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:orientation="vertical">
-
-                                <ImageView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="100dp"
-                                    android:src="@drawable/christmas_wreath" />
-
-                                <TextView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_gravity="center"
-                                    android:text="Chirstmas wreath"
-                                    android:textColor="@color/pinkAccent"
-                                    android:textSize="14sp" />
-
-                                <View
-                                    android:layout_width="match_parent"
-                                    android:layout_height="1dp"
-                                    android:layout_marginBottom="3dp"
-                                    android:layout_marginTop="3dp"
-                                    android:background="#d9d9d9" />
-
-                                <LinearLayout
-                                    android:layout_width="match_parent"
-                                    android:layout_height="wrap_content"
-                                    android:orientation="horizontal">
-
-                                    <ImageButton
-                                        android:layout_width="wrap_content"
-                                        android:layout_height="18dp"
-                                        android:layout_weight="1"
-                                        android:background="#fff"
-                                        android:src="@drawable/button_favorite" />
-
-                                    <TextView
-                                        android:layout_width="0dp"
-                                        android:layout_height="wrap_content"
-                                        android:layout_weight="2"
-                                        android:text="$300"
-                                        android:textAlignment="center"
-                                        android:textColor="#d41031"
-                                        android:textSize="14sp" />
-                                </LinearLayout>
-                            </LinearLayout>
-
-                        </android.support.v7.widget.CardView>
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content">
-
-                        <android.support.v7.widget.CardView
-                            android:layout_width="110dp"
-                            android:layout_height="150dp"
-                            android:layout_marginBottom="10dp"
-                            android:layout_marginRight="3dp"
-                            android:elevation="6dp"
-                            app:cardCornerRadius="6dp">
-
-                            <LinearLayout
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:orientation="vertical">
-
-                                <ImageView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="100dp"
-                                    android:src="@drawable/christmas_wreath" />
-
-                                <TextView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_gravity="center"
-                                    android:text="Chirstmas wreath"
-                                    android:textColor="@color/pinkAccent"
-                                    android:textSize="14sp" />
-
-                                <View
-                                    android:layout_width="match_parent"
-                                    android:layout_height="1dp"
-                                    android:layout_marginBottom="3dp"
-                                    android:layout_marginTop="3dp"
-                                    android:background="#d9d9d9" />
-
-                                <LinearLayout
-                                    android:layout_width="match_parent"
-                                    android:layout_height="wrap_content"
-                                    android:orientation="horizontal">
-
-                                    <ImageButton
-                                        android:layout_width="wrap_content"
-                                        android:layout_height="18dp"
-                                        android:layout_weight="1"
-                                        android:background="#fff"
-                                        android:src="@drawable/button_favorite" />
-
-                                    <TextView
-                                        android:layout_width="0dp"
-                                        android:layout_height="wrap_content"
-                                        android:layout_weight="2"
-                                        android:text="$300"
-                                        android:textAlignment="center"
-                                        android:textColor="#d41031"
-                                        android:textSize="14sp" />
-                                </LinearLayout>
-                            </LinearLayout>
-
-                        </android.support.v7.widget.CardView>
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content">
-
-                        <android.support.v7.widget.CardView
-                            android:layout_width="110dp"
-                            android:layout_height="150dp"
-                            android:layout_marginBottom="10dp"
-                            android:layout_marginRight="3dp"
-                            android:elevation="6dp"
-                            app:cardCornerRadius="6dp">
-
-                            <LinearLayout
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:orientation="vertical">
-
-                                <ImageView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="100dp"
-                                    android:src="@drawable/christmas_wreath" />
-
-                                <TextView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_gravity="center"
-                                    android:text="Chirstmas wreath"
-                                    android:textColor="@color/pinkAccent"
-                                    android:textSize="14sp" />
-
-                                <View
-                                    android:layout_width="match_parent"
-                                    android:layout_height="1dp"
-                                    android:layout_marginBottom="3dp"
-                                    android:layout_marginTop="3dp"
-                                    android:background="#d9d9d9" />
-
-                                <LinearLayout
-                                    android:layout_width="match_parent"
-                                    android:layout_height="wrap_content"
-                                    android:orientation="horizontal">
-
-                                    <ImageButton
-                                        android:layout_width="wrap_content"
-                                        android:layout_height="18dp"
-                                        android:layout_weight="1"
-                                        android:background="#fff"
-                                        android:src="@drawable/button_favorite" />
-
-                                    <TextView
-                                        android:layout_width="0dp"
-                                        android:layout_height="wrap_content"
-                                        android:layout_weight="2"
-                                        android:text="$300"
-                                        android:textAlignment="center"
-                                        android:textColor="#d41031"
-                                        android:textSize="14sp" />
-                                </LinearLayout>
-                            </LinearLayout>
-
-                        </android.support.v7.widget.CardView>
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content">
-
-                        <android.support.v7.widget.CardView
-                            android:layout_width="110dp"
-                            android:layout_height="150dp"
-                            android:layout_marginBottom="10dp"
-                            android:layout_marginRight="3dp"
-                            android:elevation="6dp"
-                            app:cardCornerRadius="6dp">
-
-                            <LinearLayout
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:orientation="vertical">
-
-                                <ImageView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="100dp"
-                                    android:src="@drawable/christmas_wreath" />
-
-                                <TextView
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_gravity="center"
-                                    android:text="Chirstmas wreath"
-                                    android:textColor="@color/pinkAccent"
-                                    android:textSize="14sp" />
-
-                                <View
-                                    android:layout_width="match_parent"
-                                    android:layout_height="1dp"
-                                    android:layout_marginBottom="3dp"
-                                    android:layout_marginTop="3dp"
-                                    android:background="#d9d9d9" />
-
-                                <LinearLayout
-                                    android:layout_width="match_parent"
-                                    android:layout_height="wrap_content"
-                                    android:orientation="horizontal">
-
-                                    <ImageButton
-                                        android:layout_width="wrap_content"
-                                        android:layout_height="18dp"
-                                        android:layout_weight="1"
-                                        android:background="#fff"
-                                        android:src="@drawable/button_favorite" />
-
-                                    <TextView
-                                        android:layout_width="0dp"
-                                        android:layout_height="wrap_content"
-                                        android:layout_weight="2"
-                                        android:text="$300"
-                                        android:textAlignment="center"
-                                        android:textColor="#d41031"
-                                        android:textSize="14sp" />
-                                </LinearLayout>
-                            </LinearLayout>
-
-                        </android.support.v7.widget.CardView>
-                    </LinearLayout>
 
 
                 </LinearLayout>
